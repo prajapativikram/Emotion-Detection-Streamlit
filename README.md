@@ -41,7 +41,7 @@ The interface lets users upload a photo, and the app returns the predicted emoti
   - Normalization  
   - Resizing to 48×48 pixels
 
-> 💡 *Achieved 86% validation accuracy on test dataset.*  
+> 💡 *Achieved 72% validation accuracy on test dataset.*  
 
 ---
 
